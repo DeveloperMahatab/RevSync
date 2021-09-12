@@ -1,0 +1,175 @@
+*{
+    font-family: 'Work Sans' sans-serif;
+}
+img{
+    width: 100%;
+}
+.alert {
+	margin-bottom: 0rem !important;
+}
+.btn-outline-custom {
+	color: #ff0000;
+	transform: scale(.9);
+	transition: .3s;
+}
+.btn-outline-custom:hover {
+	transform: scale(1);
+	transition: .3s;
+  }
+.btn-outline-custom2 {
+	color: #fff;
+	border-color: #ff0000;
+	border-radius: 30px;
+	transition: .3s;
+	padding: 13px 33px;
+	background: #db4a18;
+  font-size: 18px;
+}
+.btn-outline-custom2:hover {
+  background-color: #db4a18;
+  color: #000;
+  transition: .3s;
+}
+.bg-darkblue{
+	background: #111827;
+}
+.w-30{
+    width: 30% !important;
+}
+.w-15{
+    width: 13% !important;
+	border-radius: 50%;
+}
+.w-60{
+    width: 60% !important;
+}
+.bg-red{
+    background: #da660d;
+}
+.text-red{
+    color: #ff0000;
+}
+.bg-black{
+	background: #000;
+}
+.hr-div {
+	width: 68% !important;
+	border: 2px dotted #bebebe;
+	position: absolute;
+	top: 28px;
+	left: 16%;
+	z-index: -9;
+	transform: skew(28deg);
+}
+.navbar-brand {
+	margin-right: -7rem !important;
+}
+.nav-item {
+	padding: 0px 8px;
+}
+.slider-img img {
+	width: 82% !important;
+}
+.slider-caption h2 {
+	font-size: 60px;
+	font-weight: bold;
+	line-height: 58px;
+}
+.slider-caption h2:nth-child(2){
+    color: #d97706;
+}
+.slider-caption p {
+	font-size: 22px;
+	color: #868686;
+}
+.pro-icon span {
+	font-size: 55px;
+	font-weight: 900;
+	color: #fff;
+}
+.main-bal span{
+	width: 60px;
+	height: 60px;
+	border-radius: 50%;
+	background-color: #fff;
+	border: 2px solid #feeeb2;
+	display: inline-block;
+	font-size: 25px;
+	line-height: 50px;
+	margin-bottom: 40px;
+}
+.bg-black .row .row p{
+	margin-left: 37px;
+}
+.service-icon img {
+	width: 70% !important;
+}
+.service{
+	background: #f9fafb;
+}
+.service .card.py-3 {
+	height: 93%;
+}
+.service .card{
+	transition: .2s;
+}
+.service .card:hover {
+	transform: scale(1.05);
+	transition: .2s;
+}
+.custom-alart .d-flex {
+	padding: 22px 0;
+}
+.staricon svg{
+	width: 30px;
+	color: #00ff00;
+	margin: 30px 0;
+}
+.pricing-table .card{
+	background: #080c13 !important;
+	color: #888b93 !important;
+	border: 2px solid #2e3745;
+}
+.price-lebel {
+	background: #2e3745;
+	position: absolute;
+	left: 28.5%;
+	top: -3.5%;
+	padding: 5px 20px;
+	border-radius: 50px;
+}
+.fs-14{
+	font-size: 50px;
+	font-weight: bold;
+}
+.pricing-table .card hr{
+	background: #888b93 !important;
+	height: 8px;
+	border-radius: 5px;
+}
+.question-icon span {
+	width: 35px !important;
+	display: block;
+	height: 35px !important;
+	background: #db3c1d;
+	font-size: 24px;
+	text-align: center;
+	color: #fff;
+	border-radius: 50%;
+	line-height: 35px;
+	margin-right: 18px;
+}
+.custom-alart2 {
+	background: #111827;
+	color: #fff;
+	padding: 15px 25px;
+	border-radius: 50px;
+}
+.img-footer {
+	width: 30% !important;
+}
+footer nav li{
+	margin: 0 20px;
+	color: #fff;
+}
+.create-account .row .col-lg{}

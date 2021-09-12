@@ -1,0 +1,189 @@
+@media (max-width: 991px) {
+    .btn-outline-custom {
+        color: #ff0000;
+        transform: scale(0.98);
+        transition: .3s;
+        padding: 5px;
+    }
+    .slider-img img {
+        display: none;
+    }
+    .display-4.mb-4.text-light.w-50.m-auto {
+        font-size: 24px;
+        font-weight: 500;
+    }
+    .pro-icon span {
+        font-size: 29px;
+    }
+    .textpro.mt-3.ms-3 {
+        margin-top: 2px !important;
+    }
+    .textpro .text-light.h5 {
+        font-size: 15px;
+    }
+    .hr-div2 {
+        width: 68% !important;
+        border: 2px dotted #bebebe;
+        position: absolute;
+        top: 227px;
+        left: 16%;
+        z-index: -9;
+        transform: skew(28deg);
+    }
+    .hr-div3 {
+        width: 68% !important;
+        border: 2px dotted #bebebe;
+        position: absolute;
+        bottom: 164px;
+        left: 16%;
+        z-index: -9;
+        transform: skew(28deg);
+    }
+    .bg-darkblue .col-sm-5 .w-15 {
+        width: 20% !important;
+        border-radius: 50%;
+    }
+    .bg-black .col-lg-8 .col-lg-4 {
+        text-align: center;
+    }
+    .bg-black .col-lg-8 .col-lg-4 .icon.float-start {
+        float: none !important;
+    }
+    .bg-black .col-lg-8 .col-lg-4 .icon.float-start span {
+        margin-right: 0 !important;
+    }
+    .bg-black .col-lg-8 .col-lg-4 p {
+        margin-left: 0 !important;
+    }
+    .col-lg-3.service-icon.text-end {
+        text-align: center !important;
+    }
+    .service-icon img {
+        width: 8% !important;
+    }
+    .service .col-lg-8.service-text {
+        text-align: center;
+        margin-top: 20px;
+    }
+    .service .card-body.py-4 {
+        text-align: center;
+    }
+    .bg-darkblue .card.text-center.py-5.px-4.position-relative {
+        margin-bottom: 30px;
+    }
+    .price-lebel {
+        background: #2e3745;
+        position: absolute;
+        left: 38.5%;
+        top: -3.5%;
+        padding: 5px 20px;
+        border-radius: 50px;
+    }
+    .FAQ .row.pb-5 {
+        padding-bottom: 0 !important;
+    }
+    footer .col-lg-6:nth-child(1) {
+        display: flex !important;
+        justify-content: center;
+    }
+    footer .col-lg-6:nth-child(2) {
+        margin-top: 20px !important;
+    }
+    footer .col-lg-6:nth-child(2) .nav {
+        justify-content: center;
+    }
+}
+
+@media (max-width: 767px){
+    .slider-caption h2 {
+        font-size: 40px;
+    }
+    .display-4.mb-4.text-light.w-50.m-auto {
+        font-size: 26px;
+    }
+    .bg-darkblue .col-sm-5 .w-15 {
+        width: 30% !important;
+    }
+    .slider-caption p {
+        font-size: 18px;
+    }
+}
+@media (max-width: 575px){
+    header{
+        padding: 10px 0;
+    }
+    .container{
+        overflow: hidden;
+    }
+    .bg-red .row .col-lg-4.col-sm-4.d-flex {
+        align-items: center;
+        justify-content: center;
+    }
+    .service .card:hover {
+        transform: scale(1);
+    }
+    .alert h2 {
+        font-size: 21px;
+    }
+    .alert .h4.fw-light {
+        font-size: 20px;
+    }
+    .hr-div, .hr-div2, .hr-div3 {
+        display: none !important;
+    }
+    .bg-darkblue .col-lg-5.col-sm-5.text-end {
+        text-align: center !important;
+        width: 100% !important;
+    }
+    .bg-darkblue .col-sm-5 .w-15 {
+        width: 15% !important;
+    }
+    .bg-darkblue .col-lg-7.col-sm-7.text-light {
+        text-align: center;
+    }
+    .FAQ .row {
+        padding: 20px !important;
+    }
+    .text-center.text-light.w-50.m-auto {
+        width: 80% !important;
+    }
+    footer nav li {
+        margin: 0 10px;
+        color: #fff;
+    }
+    .bg-black .text-light.display-5 {
+        font-size: 20px;
+    }
+    .btn-outline-custom2 {
+        padding: 9px 24px;
+        font-size: 17px;
+    }
+}
+@media(max-width: 465px){
+    .alert form{
+        flex-direction: column;
+        align-items: center;
+    }
+    .alert form button{
+        margin-top: 8px;
+    }
+    .slider-caption h2 {
+        font-size: 33px;
+        line-height: 36px;
+    }
+    .navbar-brand {
+        margin-bottom: 15px;
+    }
+    .w-60 {
+        width: 90% !important;
+    }
+    footer span {
+        font-size: 12px;
+    }
+    footer nav li {
+        font-size: 10px;
+    }
+}
+
+
+
