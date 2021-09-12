@@ -160,6 +160,9 @@
     }
 }
 @media(max-width: 465px){
+    .price-lebel {
+	left: 29.5%;
+    }
     .alert form{
         flex-direction: column;
         align-items: center;
