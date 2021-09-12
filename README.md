@@ -1,8 +1,8 @@
 # RevSync
 
-#Facebook
+# Facebook
 -> https://facebook.com/developermahtab
-#Instagram
+# Instagram
 -> https://instagram.com/developermahtab
-#Twitter
+# Twitter
 -> https://twitter.com/developermahtab
