@@ -1,22 +1,19 @@
-# RevSync
+## RevSync
 
-## Facebook
--> https://facebook.com/developermahtab
-## Instagram
--> https://instagram.com/developermahtab
-## Twitter
--> https://twitter.com/developermahtab
+> Profile Link
+- Facebook <br>
+https://facebook.com/developermahtab <br>
+- Instagram <br>
+https://instagram.com/developermahtab <br>
+- Twitter <br>
+https://twitter.com/developermahtab <br>
+>
 
-> githubReadme('git', 'git', function (err, readme) {
->   console.log(readme.slice(0, 300));
-> })
-////////////////////////////////////////////////////////////////
+	
+> RevsSync Download Link: <br>
+https://github.com/DeveloperMahtab/RevSync/archive/refs/heads/main.zip <br>
 
-	Git - the stupid content tracker
+	gh repo clone DeveloperMahtab/RevSync
 
-////////////////////////////////////////////////////////////////
 
-"git" can mean anything, depending on your mood.
 
- - random three-letter combination that is pronounceable, and not
-   actually used
